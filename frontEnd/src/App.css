@@ -1,0 +1,33 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+  background: rgb(225, 229, 238);
+  height: 100%;
+}
+.date {
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  text-align: center;
+  margin: 2% 5% 2% 0;
+  border: 1px solid #AAB3C1;
+}
+.time {
+  width: 150px;
+  align-items: center;
+  text-align: center;
+  margin: 0 5% 2% 0;
+  border: 1px solid #AAB3C1;
+}
+.auto {
+  width: 150px;
+  align-items: center;
+  text-align: center;
+  margin-right: 0 5% 2% 0;
+  border: 1px solid #AAB3C1;
+
+}
+.table {
+  margin: 0 2%  0 2% ;
+}
